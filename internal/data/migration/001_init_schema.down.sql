@@ -1,0 +1,13 @@
+DROP TABLE audit_logs;
+DROP TABLE notification_preferences;
+DROP TABLE notifications;
+DROP TABLE post_revisions;
+DROP TABLE post_views;
+DROP TABLE bookmarks;
+DROP TABLE post_likes;
+DROP TABLE comments;
+DROP TABLE post_tags;
+DROP TABLE posts;
+DROP TABLE tags;
+DROP TABLE categories;
+DROP TABLE users;
